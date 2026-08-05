@@ -178,8 +178,6 @@ WebServerLogAnalysis/
 ├── output/
 │
 ├── README.md
-│
-└── requirements.txt
 ```
 
 ---
